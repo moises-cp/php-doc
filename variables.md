@@ -1,6 +1,6 @@
 # PHP Variables
 
-[[_TOC_]]
+[[TOC]]
 
 ## Verify If It Has a Value 
 
