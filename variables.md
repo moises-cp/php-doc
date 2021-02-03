@@ -1,10 +1,9 @@
 # PHP Variables
 
-[[TOC]]
 
-## Verify If It Has a Value 
+## Verify If The Variable Has a Value 
 
-## Example 1
+## Example 1 - Using Ternary Expression
  ```php
  <?php 
 /** 
