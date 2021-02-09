@@ -14,21 +14,24 @@
 <br>
 
 ### Example 1 - Remove the first item of the array
-- Remove the first item of the array
-- Returns any remaining item(s)
 ```
 array_slice($arrayName, 1)
 ```
+- Remove the first item of the array
+- Returns any remaining item(s)
+<br>
 
 ### Example 2 - Get the last item of the array
-- **-1** = Return one item starting at the end of the array.
 ```
 array_slice($arrayName, -1)
 ```
+- **-1** = Return one item starting at the end of the array.
+<br>
 
 ### Example 3 - Get the last three items of the array
-- **-3** = Return three items starting at the end of the array.
-- If there are less than three items, it will return all the items.
 ```
 array_slice($arrayName, -3)
 ```
+- **-3** = Return three items starting at the end of the array.
+- If there are less than three items, it will return all the items.
+
