@@ -14,7 +14,7 @@
 <br>
 
 ### Example 1 - Remove the first item of the array
-```
+```php
 array_slice($arrayName, 1)
 ```
 - Remove the first item of the array
@@ -22,14 +22,14 @@ array_slice($arrayName, 1)
 <br>
 
 ### Example 2 - Get the last item of the array
-```
+```php
 array_slice($arrayName, -1)
 ```
 - **-1** = Return one item starting at the end of the array.
 <br>
 
 ### Example 3 - Get the last three items of the array
-```
+```php
 array_slice($arrayName, -3)
 ```
 - **-3** = Return three items starting at the end of the array.
